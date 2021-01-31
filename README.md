@@ -1,4 +1,4 @@
-### Hi I'm Talía!🙋🏻‍♀️
+### Hi I'm Talía! 🙋🏻‍♀️
 
 As a rising fsw developer, I'm enjoying a new journey to self-expression at Pursuit, an intensive 12 - month software engineering fellowship with a 9% acceptance rate. 
 
