@@ -1,10 +1,15 @@
 ### Hi I'm Talía! 🙋🏻‍♀️
 
-As a rising fsw developer, I'm enjoying a new journey to self-expression at Pursuit, an intensive 12 - month software engineering fellowship with a 9% acceptance rate. 
+A full stack developer from Dominican Republic 🇩🇴.
 
 I 💜 the process of creating clean code and discovering different ways to get the same result. I have learned through pair programming that the beauty of coding lies in the spaces it creates for collaboration. We all think differently 🌎, and software development encourages these differences and makes them work together to create amazing outcomes ✨. 
 
-When I'm not coding 👩🏻‍💻 you can find me cracking jokes with family and friends, dancing to EVERYTHING 💃🏻, and bike riding 🚴🏻‍♀️. 
+- 🔭 I’m currently working on rebuilding my personal website with React
+- 🌱 I’m currently learning PostgreSQL.
+-  💬 Let's Chat! [Twitter](https://twitter.com/PichardoTalia) or [Linkedin](www.linkedin.com/in/taliapichardo)
+
+
+
 
 <!--
 **Tpichardo/Tpichardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,10 +17,10 @@ When I'm not coding 👩🏻‍💻 you can find me cracking jokes with family a
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
