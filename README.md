@@ -9,7 +9,7 @@ I 💜 the process of creating clean code and discovering different ways to get 
 - 🔭 I’m currently working on rebuilding my personal website with React 
 - 🌱 Learning PostgreSQL
 - 🗺 Exploring web scraping & GraphqQL
-- 🧠 favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to the ones who seek knowledge" - Domingo Pichardo
+- 🧠 favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who seek knowledge" - Domingo Pichardo
 
 
 <hr/>
