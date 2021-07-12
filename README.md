@@ -1,10 +1,8 @@
-## Hi I'm Talía! (She/Her) 🙋🏻‍♀️ 
+# Hi I'm Talía! (She/Her) 🙋🏻‍♀️ 
 
 A full stack web developer from the Dominican Republic 🇩🇴.
 
-I 💜 the process of creating clean code and discovering different ways to get the same result. Through pair programming i've learned that the beauty of coding lies in the spaces it creates for collaboration. We all think differently 🌎, and software development encourages these differences and makes them work together to create amazing outcomes ✨. 
 
-<hr/>
 
 - 🔭 I’m currently working on rebuilding my portfolio 
 - 🌱 Learning PostgreSQL
