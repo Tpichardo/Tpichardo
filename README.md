@@ -5,7 +5,6 @@ A full stack web developer from the Dominican Republic 🇩🇴
 
 
 - 🔭 Currently working on rebuilding my portfolio 
-- 🗺 Exploring Python 
 - 🧠 favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "Those who seek knowledge can acquire all things" - Domingo Pichardo
 
 
