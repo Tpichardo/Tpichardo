@@ -1,10 +1,11 @@
 # Hi I'm Talía! (She/Her)
 
-A full stack web developer from the Dominican Republic 🇩🇴
+A Full Stack Web Developer from the Dominican Republic 🇩🇴
 
 
 
 - 🔭 Currently working on rebuilding my portfolio 
+- 📚 Studying Data Structures and Algorithms 
 - 🧠 favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "Those who seek knowledge can acquire all things" - Domingo Pichardo
 
 
