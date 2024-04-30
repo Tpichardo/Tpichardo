@@ -1,4 +1,4 @@
-# Hi I'm Talía!
+# Hi, I'm Talía!
 
 Full Stack Web Developer from the Dominican Republic 🇩🇴
 
