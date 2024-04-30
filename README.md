@@ -1,14 +1,14 @@
-# Hi I'm Talía! (She/Her)
+# Hi I'm Talía!
 
-A Full Stack Web Developer from the Dominican Republic 🇩🇴
+Full Stack Web Developer
 
-- 📚 Exploring and implementing accessibility and mobile first design 
-- 🧠 favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "Those who seek knowledge can acquire all things" - Domingo Pichardo
+- 📚 Currently learning and implementing TypeScript into my old projects
+- 💫 favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who know" - Domingo Pichardo
 
 
 <hr/>
 
-<h3 align="left"> 💬 Let's Chat:</h3>
+<h3 align="left"> 📫 Let's Chat:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/taliapichardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/taliapichardo" height="30" width="40" /></a>
 </p>
