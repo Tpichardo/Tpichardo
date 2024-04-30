@@ -1,6 +1,6 @@
 # Hi, I'm Talía!
 
-Full Stack Web Developer from the Dominican Republic 🇩🇴
+Full-Stack Web Developer from the Dominican Republic 🇩🇴
 
 - 📚 Currently learning and implementing TypeScript into my old projects!
 - 💫 favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who know" - Domingo Pichardo
