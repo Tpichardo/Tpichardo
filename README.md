@@ -9,7 +9,7 @@ Full-Stack Web Developer from the Dominican Republic 🇩🇴
 <h3>Tools and Technologies</h3>
 
 <div>
-  <img src="https://github.com/Tpichardo/Tpichardo/blob/main/Programming%20Logos.png" title="programming Logos" alt="Programming Logos" style="max-width: 100%;"/>
+  <img src="https://github.com/Tpichardo/Tpichardo/blob/main/programing%20Logos.png" title="programming Logos" alt="Programming Logos"/>
 </div>
 
 
