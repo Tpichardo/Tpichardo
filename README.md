@@ -6,7 +6,7 @@ I bring a passion for tech and learning to every role I take on, making each pro
 
 Outside of work you can find me with family soaking up the outdoors or working on a health & fitness app (stay tuned!)
 
-- 💫 favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who know" - Domingo Pichardo
+Favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who know" - Domingo Pichardo
 
 
 
