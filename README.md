@@ -1,13 +1,13 @@
 # Hi, I'm Talía!
 
-Full-Stack Web Developer from the Dominican Republic 🇩🇴
+I love tech and I love connecting with people. I recently moved to Florida from New York City, so I'm excited to bring my skills to roles that connect people with technology in meaningful ways. I believe the best solutions are built through collaboration and community, and that learning should always be engaging and fun!
+
+With experience in education, programming, and technical support, I bring a passion for tech and learning to every role I take on, making each project a chance to create something impactful and enjoyable for everyone involved.
+
+Outside of work you can find me with family soaking up the outdoors 🌊⛰️
+
 - 💫 favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who know" - Domingo Pichardo
 - 📫 Let's Chat: <a href="https://www.linkedin.com/in/taliapichardo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/taliapichardo" height="15" width="15" /></a>
-
-<h3>Tools:</h3>
-<div>
-  <img src="https://github.com/Tpichardo/Tpichardo/blob/main/Dev%20Logos.png" title="programming Logos" alt="Programming Logos"/>
-</div>
 
 
 
