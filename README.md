@@ -1,6 +1,6 @@
 # Hi, I'm Talía!
 
-I love wellness (I'm real crazy about what I put into my body) and I love connecting with people! I recently moved to Florida from New York City, so I'm excited to bring my skills to roles that connect people with technology in meaningful ways. My experience in education, programming, and technical support have taught me that the best solutions are built through collaboration, and that learning tech should always be engaging, fun, and exciting! (even for non-techies)
+I love wellness (I'm real crazy about what I put into my body) and I love connecting with people! I recently moved to Florida from New York City, so I'm excited to bring my skills to roles that connect people with technology in meaningful ways. My experience in education, programming, and technical support have taught me that the best solutions are built through collaboration, and that learning tech should be engaging, fun, and exciting! (even for non-techies)
 
 I bring a passion for tech and learning to every role I take on, making each project a chance to create something impactful and enjoyable for everyone involved.
 
