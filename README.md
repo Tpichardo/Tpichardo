@@ -1,15 +1,10 @@
 # Hi, I'm Talía!
 
-I love wellness (I'm real crazy about what I put into my body) and I love connecting with people! I recently moved to Florida from New York City, so I'm excited to bring my skills to roles that connect people with technology in meaningful ways. My experience in education, programming, and technical support have taught me that the best solutions are built through collaboration, and that learning tech should be engaging, fun, and exciting! (even for non-techies)
+I’m passionate about wellness and excited to apply my tech skills in roles that leverage technology to develop products that genuinely improve people's well-being and quality of life.
 
-I bring a passion for tech and learning to every role I take on, making each project a chance to create something impactful and enjoyable for everyone involved.
-
-Outside of work you can find me with family soaking up the outdoors or working on a health & fitness app (stay tuned!)
+I enjoy being active, I recently moved to Florida from New York so I’m enjoying spending more time in nature. Recently been getting into neuroscience (God really gave us amazing brains!), calisthenics, and herbal medicine. 
 
 Favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who know" - Domingo Pichardo
-
-
-
 
 
 
