@@ -10,6 +10,7 @@ Favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world b
 - osTicket (Support Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/Tpichardo/osticket-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/Tpichardo/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Tpichardo/ticket-lifecycle)
 - Microsoft Azure
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tpichardo/azure-network-protocols)
 
