@@ -7,6 +7,8 @@ I enjoy being active, and after recently moving to Florida from New York City, I
 Favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who know" - Domingo Pichardo
 
 ## Information Technology Projects:
+- osTicket (Support Ticketing System)
+  - [osTicket: Prerequisites and Installation](https://github.com/Tpichardo/osticket-prereq)
 - Microsoft Azure
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tpichardo/azure-network-protocols)
 
