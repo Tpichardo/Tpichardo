@@ -2,9 +2,13 @@
 
 I’m passionate about wellness and excited to apply my tech skills in roles that leverage technology to develop products that genuinely improve people's well-being and quality of life.
 
-I enjoy being active, I recently moved to Florida from New York so I’m enjoying spending more time in nature. Recently been getting into neuroscience (God really gave us amazing brains!), calisthenics, and herbal medicine. 
+I enjoy being active, and after recently moving to Florida from New York City, I’m enjoying spending more time in nature. Lately, I've been diving into neuroscience, calisthenics, and herbal medicine just for fun.
 
 Favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who know" - Domingo Pichardo
+
+## Information Technology Projects:
+- Microsoft Azure
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tpichardo/azure-network-protocols)
 
 
 
