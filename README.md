@@ -1,6 +1,6 @@
 # Hi, I'm Talía!
 
-I’m passionate about wellness and excited to apply my tech skills in roles that leverage technology to develop products that genuinely improve people's well-being and quality of life.
+I’m passionate about wellness and excited to bring my tech skills to roles that leverage technology to develop products that genuinely improve people's well-being and quality of life.
 
 I enjoy being active, and after recently moving to Florida from New York City, I’m enjoying spending more time in nature. Lately, I've been diving into neuroscience, calisthenics, and herbal medicine just for fun.
 
