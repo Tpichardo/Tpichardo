@@ -4,8 +4,6 @@ I’m passionate about wellness and excited to bring my tech skills to roles tha
 
 I enjoy being active, and after recently moving to Florida from New York City, I’m enjoying spending more time in nature. Lately, I've been diving into neuroscience, calisthenics, and herbal medicine just for fun.
 
-Favorite quote: "El mundo es de los que saben" - Domingo Pichardo | "The world belongs to those who know" - Domingo Pichardo
-
 ## Information Technology Projects:
 - osTicket (Support Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/Tpichardo/osticket-prereq)
