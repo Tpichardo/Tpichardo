@@ -1,8 +1,8 @@
 # Hi, I'm Talía!
 
-I’m passionate about wellness and excited to bring my tech skills to roles that leverage technology to develop products that genuinely improve people's well-being and quality of life.
+An experienced IT professional with a background in IT support, education, and programming. Skilled in troubleshooting technical issues while ensuring users feel heard, empowered, and supported. Adept at breaking down complex concepts into clear, actionable solutions, making technology more accessible. 
 
-Lately, I've been diving into neuroscience, calisthenics, and herbal medicine just for fun.
+I'm passionate about wellness, and always curious and eager to learn so lately, I've been diving into neuroscience, calisthenics, and herbal medicine just for fun.
 
 ## Information Technology Projects:
 - osTicket (Support Ticketing System)
